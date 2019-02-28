@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "builds": [
+    {
+      "src": "build",
+      "use": "@unubo/static",
+      "commands": ["npm run build"]
+    }
+  ]
+}
